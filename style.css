@@ -1,0 +1,82 @@
+body{
+    background: #f5f593;
+}
+table{
+  border:solid 6px #7508BA;
+  width: 35%;
+}
+table th{
+  color: #560688;
+  text-align:center;
+}
+table td{
+  color: #560688;
+  text-align:center;
+}
+/*body{
+  background-color: white;
+  color: black;
+}*//*
+head{
+  background-color: #ffe38b;
+  background-image: url('Untitled.png');
+  background-repeat:no-repeat;
+  height:189px;
+  border:solid 15px #ffcc00;/*dotted, dashed, double*//*
+}
+header ul{
+  list-style-type:none;
+  overflow:hidden;/*Свойство сокращения текста, если поле меньше текста*//*
+}
+header li{
+  float: top;
+}
+header li a {
+  background-color: #d1d1d1;
+  display: inline-block;
+  text-align: left;
+  overflow: visible;
+  padding:20px;
+  border:solid 20px #ffcc00;
+  text-decoration:none;
+  color: black;
+  width: 20%;
+}
+main{
+  background-color: #ffe38b;
+  border:solid 10px #ffcc00;
+  overflow: visible;
+  padding: 5%;
+}
+body td{
+  color: black;
+  text-decoration: none;
+  font: 30px Georgia;
+}*/
+body a{
+  color: black;
+  text-decoration: none;
+}/*
+body table a{
+  color: black;
+  text-decoration: none;
+  font: 20px Georgia;
+}
+body table td{
+  color: black;
+  text-decoration: none;
+  font: 20px Georgia;
+}
+dl{
+  color: black;
+  text-decoration: none;
+  font: 17px Georgia;
+}
+form{
+  color: black;
+  text-decoration: none;
+  font: 25px Georgia;
+}*/
+body a:hover{
+  text-decoration: underline;
+}
